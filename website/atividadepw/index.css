@@ -1,0 +1,56 @@
+body {
+    color: black;
+    background-color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 18px;
+}
+
+nav {
+    font-size: large;
+    font: optional;
+    font-style:initial;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header {
+    background-color: green;
+}
+
+.fonte{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+}
+
+.mario {
+    color: darkred;
+    border-radius: 0%;
+    border: 5px solid darkred;
+}
+
+.sonic {
+    color: darkblue;
+    border-radius: 0%;
+    border: 5px solid darkblue;
+}
+
+.mega {
+    color: cyan;
+    border-radius: 0%;
+    border: 5px solid cyan;
+}
+
+.table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
